@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+main(){
+
+int x;
+  
+  cout << "Hello bullsh*t world";
+  cin >> x;
+
+
+
+
+
+
+return 1;
+}
